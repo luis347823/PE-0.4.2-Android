@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				-6
+				-23,
+				-11
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				7,
+				-47
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-9,
+				9
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				-7
+				-43,
+				-5
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				19
+				16,
+				-3
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-19
+				17,
+				-29
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				-12,
+				9
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				22
+				-17,
+				13
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,8 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
+				-6,
+				-3
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -113,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				15,
-				18
+				-30,
+				-31
 			],
 			"anim": "hurt",
 			"fps": 24,
@@ -124,8 +124,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				-4,
-				0
+				-30,
+				4
 			],
 			"anim": "scared",
 			"fps": 24,
@@ -135,8 +135,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				11
+				56,
+				19
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -146,8 +146,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				37,
-				5
+				32,
+				18
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -157,8 +157,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				32,
+				32
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -168,8 +168,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-16
+				-6,
+				-3
 			],
 			"anim": "dodge",
 			"fps": 24,
@@ -179,8 +179,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
-				267
+				134,
+				-35
 			],
 			"anim": "attack",
 			"fps": 24,
@@ -203,17 +203,17 @@
 	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
-		350
+		240
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		60,
+		40,
+		255
 	],
 	"camera_position": [
-		0,
+		60,
 		0
 	],
 	"sing_duration": 4,
